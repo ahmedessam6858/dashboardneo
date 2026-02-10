@@ -127,4 +127,4 @@ elif st.session_state.insight == "customers":
 
 # ================= FOOTER =================
 st.divider()
-st.success("✅ Interactive Dashboard loaded successfully – ready for course use")
+st.success("winning team isa ✅ ")
